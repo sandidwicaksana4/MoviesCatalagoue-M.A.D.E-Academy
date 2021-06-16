@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moviex</string>
+
+    <string name="title_home">Beranda</string>
+    <string name="title_about">Tentang Saya</string>
+    <string name="title_pengaturan">Pengaturan</string>
+    <string name="title_film">Film</string>
+    <string name="title_tv">TV Show</string>
+    <string name="title_favorite">Daftar Favorit</string>
+    <string name="title_detail_favorit">Detail Favorit</string>
+
+    <string name="change_lang">Pilih Bahasa</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
+    <string name="bahasa_inggris">Bahasa Inggris</string>
+    <string name="title_change_lang">Ubah Bahasa</string>
+    <string name="pencarian">Pencarian</string>
+    <string name="exit">Keluar</string>
+
+    <string name="pesan_exit">Apakah kamu yakin ingin keluar dari aplikasi ?</string>
+
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="error_load_data">Gagal tampil data!, Pastikan ada akses koneksi internet</string>
+
+    <string name="title_movie">Judul Film</string>
+
+    <string name="title_genre">Genre</string>
+    <string name="title_tanggal">Tanggal Rilis</string>
+    <string name="title_runtime">Durasi</string>
+    <string name="title_production_companies">Perusahaan Produksi</string>
+    <string name="title_bahasa">Bahasa</string>
+    <string name="title_deskripsi">Deskripsi</string>
+    <string name="title_status">Status</string>
+    <string name="title_budget">Anggaran</string>
+    <string name="title_revenue">Pendapatan</string>
+    <string name="title_tvshow">Judul Tv Show</string>
+    <string name="title_production">Detail Produksi</string>
+    <string name="title_detail_movie">Detail Film</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="empty_search">Data Tidak Ditemukan</string>
+    <string name="runtime">Menit</string>
+    <string name="like">Suka</string>
+
+    <string name="dislike">Tidak Suka</string>
+    <string name="pesan_like">Anda yakin ingin menambahkan film ini menjadi daftar favorit ?</string>
+    <string name="pesan_dislike">Anda yakin ingin menghapus film ini menjadi daftar favorit ?</string>
+    <string name="remove_favorite">Favorite telah dihapus !</string>
+    <string name="title_vote_average">Kepopuleran</string>
+    <string name="save_favorite">Anda menambahkan film ini ke daftar favorit</string>
+    <string name="error_favorite">Gagal favorite !</string>
+    <string name="title_detail_tv">Detail Tv Show</string>
+    <string name="text_episode">Nomer Episode</string>
+    <string name="text_season">Nomer Season</string>
+    <string name="search_tvshow">Cari Tv Show</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="no_telp">No Telepon</string>
+    <string name="load">Mohon tunggu...</string>
+    <string name="empty_widget_view_text">Daftar Favorite Tidak Ditemukan</string>
+    <string name="title_release_reminder">Pengingat Rilis Film</string>
+    <string name="release_reminder_desc">Beri saya notifikasi film yang baru dirilis</string>
+    <string name="title_daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_desc">Pengingat kembali ke aplikasi</string>
+    <string name="title_moviex_desc">Aplikasi Katalog Film dan Acara Tv</string>
+    <string name="release_reminder_message">Telah dirilis hari ini !</string>
+    <string name="title_daily_moviex">Moviex Merindukanmu !!</string>
+    <string name="daily_message_reminder">Mari kita lihat film yang sedang tren saat ini..</string>
+    <string name="toast_failed">Gagal !</string>
+    <string name="message_daily_set">Pengingat harian telah diatur</string>
+    <string name="message_release_set">Pengingat rilis film telah diatur </string>
+    <string name="img_backdrop">Latar Belakang Film</string>
+
+</resources>

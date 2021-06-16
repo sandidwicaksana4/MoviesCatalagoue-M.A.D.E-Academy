@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Moviex</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_about">About Me</string>
+    <string name="title_pengaturan">Settings</string>
+    <string name="title_film">Movie</string>
+    <string name="title_tv">TV Show</string>
+    <string name="title_favorite">List Favorite</string>
+    <string name="title_detail_favorit">Favorite Details</string>
+
+    <string name="change_lang">Choose Language</string>
+    <string name="bahasa_indonesia">Indonesian</string>
+    <string name="bahasa_inggris">English</string>
+    <string name="title_change_lang">Change Language</string>
+
+    <string name="pencarian">Search</string>
+
+    <string name="exit">Exit</string>
+    <string name="pesan_exit">Are you sure want to exit the application ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="error_load_data">Error load data!, Make sure there is an Internet Connection</string>
+
+    <string name="title_movie">Movie Title</string>
+    <string name="title_genre">Genre</string>
+    <string name="title_tanggal">Release Date</string>
+    <string name="title_runtime">Runtime</string>
+    <string name="title_production_companies">Production Companies</string>
+    <string name="title_bahasa">Language</string>
+    <string name="title_deskripsi">Description</string>
+    <string name="title_status">Status</string>
+    <string name="title_budget">Budget</string>
+    <string name="title_revenue">Revenue</string>
+    <string name="title_tvshow">Tv Show Title</string>
+    <string name="title_production">Production Details</string>
+    <string name="title_detail_movie">Movie Details</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="empty_search">Data Not Found</string>
+    <string name="runtime">Minute</string>
+
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="pesan_like">Are you sure want add this movie to list favorite ?</string>
+    <string name="pesan_dislike">Are you sure want delete this movie to list favorite ?</string>
+    <string name="remove_favorite">Favorite has been deleted !</string>
+    <string name="title_vote_average">Popularity</string>
+    <string name="save_favorite">You add this movie to list favorite</string>
+    <string name="error_favorite">Favorite failed!</string>
+    <string name="title_detail_tv">Tv Show Details</string>
+    <string name="text_episode">Episode Number</string>
+    <string name="text_season">Season Number</string>
+    <string name="search_tvshow">Search Tv Show</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="no_telp">Phone Number</string>
+    <string name="load">Please wait...</string>
+    <string name="empty_widget_view_text">List Favorite Not Found</string>
+    <string name="title_release_reminder">Movies Release Reminder</string>
+    <string name="release_reminder_desc">Give me a notification of new release movie</string>
+    <string name="title_daily_reminder">Daily Reminder</string>
+    <string name="daily_reminder_desc">Reminder for return to app</string>
+    <string name="title_moviex_desc">Application Catalogue Movies and Tv Show</string>
+    <string name="release_reminder_message">Has been released today !</string>
+    <string name="title_daily_moviex">Moviex Missing You !!</string>
+    <string name="daily_message_reminder">Let\'s see movies that are trending this time..</string>
+    <string name="toast_failed">Failed !</string>
+    <string name="message_daily_set">Daily reminder has been set up</string>
+    <string name="message_release_set">Movies release reminder has been set up</string>
+    <string name="img_backdrop">Movie Background</string>
+
+</resources>
